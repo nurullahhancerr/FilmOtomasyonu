@@ -14,6 +14,5 @@
 20|The Ritual|Korku|David Midell|2025|98|7.5|https://image.tmdb.org/t/p/w185/lDMIaP5gzMIufRglYUlYREcUPkf.jpg|false
 21|Fenerbahçe Şampiiyon|Komedi|Ali Koç|2025|90|9.9||false
 22|Titanic|Dram|James Cameron|1997|194|7.9|https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg|true
-23|kSU|Macera|gurunlu|2025|100|7.0||false
 24|Öldürdüğün Şeyler|Dram|Alireza Khatami|2025|113|9.0|https://image.tmdb.org/t/p/w185/kR8CHANk8KwQLWarMIQsk2mthhW.jpg|false
 25|A Tooth Fairy Tale|Animasyon|Michael Johnson|2025|88|10.0|https://image.tmdb.org/t/p/w185/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg|false
