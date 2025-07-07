@@ -4,14 +4,15 @@ Bu proje, Java Swing kullanılarak geliştirilmiş basit bir film otomasyon sist
 
 ## Özellikler
 
-* Film Ekleme: Yeni film kayıtları ekleyebilme.
-* Film Silme: Mevcut film kayıtlarını silebilme.
-* Film Güncelleme: Film bilgilerini düzenleyebilme.
-* Film Listeleme: Tüm filmleri listeleyebilme.
-* Film Arama ve Filtreleme: Film adına, türüne, yayın yılına ve IMDb puanına göre arama ve filtreleme yapabilme.
-* API Entegrasyonu: OMDb ve TMDb API'leri ile film bilgilerini otomatik olarak çekme.
-* Veri Kalıcılığı: Filmlerin filmler.txt dosyasına kaydedilmesi ve uygulamayı yeniden başlattığınızda yüklenmesi.
-* Kullanıcı Girişi: Basit bir kullanıcı adı/şifre doğrulama ekranı.
+* **Film Ekleme:** Yeni film kayıtları ekleyebilme.
+* **Film Silme:** Mevcut film kayıtlarını silebilme.
+* **Film Güncelleme:** Film bilgilerini düzenleyebilme.
+* **Film Listeleme:** Tüm filmleri listeleyebilme.
+* **Film Arama ve Filtreleme:** Film adına, türüne, yayın yılına ve IMDb puanına göre arama ve filtreleme yapabilme.
+* **Vizyondakiler:** API entegrasyonu sayesinde vizyondaki filmleri ve küçük posterlerini görüntüleyebilme.
+* **API Entegrasyonu:** OMDb ve TMDb API'leri ile film bilgilerini ve posterlerini otomatik olarak çekme.
+* **Veri Kalıcılığı:** Filmlerin filmler.txt dosyasına kaydedilmesi ve uygulamayı yeniden başlattığınızda yüklenmesi.
+* **Kullanıcı Girişi:** Basit bir kullanıcı adı/şifre doğrulama ekranı.
 
 ## Kurulum ve Çalıştırma
 
