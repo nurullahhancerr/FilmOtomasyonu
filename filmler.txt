@@ -1,0 +1,19 @@
+2|Kayıp Dünya|Aksiyon|Paul W. S. Anderson|2025|102|6.383|https://image.tmdb.org/t/p/w185/19MISRxGiaCKZHUuGL0dbWbJrab.jpg|false
+3|Gözbebeğim|Romantik|Cho Young-myoung|2025|102|8.2|https://image.tmdb.org/t/p/w185/lbLEl0LGtlRvqmDzgbyJ78BWgCy.jpg|true
+4|Recep İvedik|Komedi|Togan Gökbakar|2008|90|4.9|https://m.media-amazon.com/images/M/MV5BYzU0M2JkZTItNWEwYy00Y2ViLTg4YjMtNTEzMTcxYzA3NWU3XkEyXkFqcGc@._V1_SX300.jpg|true
+7|can|Biyografi|Steven Spielberg|2002|141|8.1|https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg|true
+9|Büyük Macera 3: Çılgın Dostlar|Animasyon|Василий Ровенский|2024|85|7.7|https://image.tmdb.org/t/p/w185/e6bBATHNYD0ffPqdlBmXycZQIWX.jpg|true
+11|Son Durak: Kan Bağı|Korku|Adam B. Stein|2025|110|7.1|https://image.tmdb.org/t/p/w185/1ZLfwCHm3AefZmBmQsIm2ElU5LP.jpg|false
+12|Günahkarlar|Korku|Ryan Coogler|2025|138|7.6|https://image.tmdb.org/t/p/w185/aLTh70DKnbYEUTuipoSkGGU2G6u.jpg|true
+13|Şafağa Kadar|Korku|David F. Sandberg|2025|103|6.3|https://image.tmdb.org/t/p/w185/juA4IWO52Fecx8lhAsxmDgy3M3.jpg|false
+14|Müslüm|Biyografi|Ketche, Can Ulkay|2018|136|7.6|https://m.media-amazon.com/images/M/MV5BYzA1NTVlZjctODg0Yy00NDA3LWIwNGItZGMyMjM0NjgyY2FjXkEyXkFqcGc@._V1_SX300.jpg|true
+16|Star|Aksiyon|George Lucas|1977|121|8.6|https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg|true
+17|Son|Dram|Joshua Oppenheimer|2024|149|5.031|https://image.tmdb.org/t/p/w185/8RODNUPJCnCk85bjgAk8sxZ0A5u.jpg|true
+18|This|Komedi|Evan Goldberg, Seth Rogen|2013|107|6.6|https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_SX300.jpg|false
+19|Thunderbolts*|Aksiyon|Jake Schreier|2025|127|7.6|https://m.media-amazon.com/images/M/MV5BNDIzNGUwZmYtODM0Yy00NjA3LTgxOGUtOTY0ZGM5MjBkM2I3XkEyXkFqcGc@._V1_SX300.jpg|false
+20|The Ritual|Korku|David Midell|2025|98|7.5|https://image.tmdb.org/t/p/w185/lDMIaP5gzMIufRglYUlYREcUPkf.jpg|false
+21|Fenerbahçe Şampiiyon|Komedi|Ali Koç|2025|90|9.9||false
+22|Titanic|Dram|James Cameron|1997|194|7.9|https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg|true
+23|kSU|Macera|gurunlu|2025|100|7.0||false
+24|Öldürdüğün Şeyler|Dram|Alireza Khatami|2025|113|9.0|https://image.tmdb.org/t/p/w185/kR8CHANk8KwQLWarMIQsk2mthhW.jpg|false
+25|A Tooth Fairy Tale|Animasyon|Michael Johnson|2025|88|10.0|https://image.tmdb.org/t/p/w185/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg|false

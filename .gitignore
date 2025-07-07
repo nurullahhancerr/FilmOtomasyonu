@@ -1,0 +1,30 @@
+
+# NetBeans proje dosyaları
+nbproject/private/
+build/
+dist/
+nbbuild/
+.nb-gradle/
+
+# Derlenmiş Java class dosyaları
+*.class
+
+# Log dosyaları
+*.log
+
+# BlueJ dosyaları
+*.ctxt
+
+# Mobile-specific dosyalar
+.mtj.tmp/
+
+# Paketler
+*.jar
+*.war
+*.ear
+
+# Sanal makine çökme dökümleri, vb.
+hs_err_pid*
+
+# Yapılandırma dosyası - API anahtarları gibi hassas veriler içerir
+config.properties
